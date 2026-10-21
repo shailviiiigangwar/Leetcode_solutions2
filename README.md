@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shailviiiigangwar/Leetcode_solutions2/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shailviiiigangwar/Leetcode_solutions2/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shailviiiigangwar/Leetcode_solutions2/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shailviiiigangwar/Leetcode_solutions2/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
